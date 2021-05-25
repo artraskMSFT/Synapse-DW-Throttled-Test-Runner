@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT license.
+
 // Derived from https://github.com/AdamPaternostro/Azure-SQL-DW-Synapse-Test-Case-Runner for specific needs of a 
 // fixed size client pool, running randomly selected queries for a fixed time period
 
